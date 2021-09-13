@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming 
 - 🌱 I’m currently learning powershell  
 - 💞️ I’m looking to collaborate on administrativ autmation 
-- 📫 How to reach me ...
+- 📫 How to reach me najib.abdi@sporveien.com
 
 <!---
 Saxir/Saxir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
